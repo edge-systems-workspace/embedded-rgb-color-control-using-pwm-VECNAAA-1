@@ -60,10 +60,10 @@ void loop() {
 
     // TODO 9:
     // Set RED brightness using analogWrite()
-    // analogWrite(redPin, 255);   // Full brightness
-    // analogWrite(greenPin, 0);
-    // analogWrite(bluePin, 0);
-    // delay(1000);
+    analogWrite(redPin, 255);   // Full brightness
+    analogWrite(greenPin, 0);
+    analogWrite(bluePin, 0);
+    delay(1000);
 
     // TODO 10:
     // Set GREEN brightness using analogWrite()
