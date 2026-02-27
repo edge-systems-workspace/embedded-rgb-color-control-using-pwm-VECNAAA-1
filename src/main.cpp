@@ -37,9 +37,9 @@ void setup() {
 
     // TODO 6:
     // Print initialization message
-    // Serial.println("==================================");
-    // Serial.println(" RGB LED Control System Started ");
-    // Serial.println("==================================");
+    Serial.println("==================================");
+    Serial.println(" RGB LED Control System Started ");
+    Serial.println("==================================");
 }
 
 void loop() {
